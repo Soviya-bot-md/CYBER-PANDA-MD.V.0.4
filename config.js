@@ -9,25 +9,25 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
 //
-global.prefa = ["."];                                    //Default prefix here. you can change if you want.
+global.prefa = [" ,."];                                    //Default prefix here. you can change if you want.
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+94782364266", "+94774525408"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94782364266", "+94774525408"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94782364266"];
+global.OwnerName = "𝐒𝐨𝐯𝐢𝐲𝐚-𝐛𝐨𝐘";
+global.BotName = "𝐒𝐨𝐯𝐢𝐲𝐚-𝐛𝐨𝐘-𝐁𝐨𝐭-𝐌𝐃";
+global.packname = "🦋 𝐒𝐨𝐯𝐢𝐲𝐚-𝐛𝐨𝐘-𝐁𝐨𝐭-𝐌𝐃 🦋";                             //Do not change.
+global.author = "𝐒𝐨𝐯𝐢𝐲𝐚";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
